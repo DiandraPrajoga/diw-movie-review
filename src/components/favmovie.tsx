@@ -34,7 +34,7 @@ export default function Favmovie() {
                     <CardBody className="overflow-visible py-2">
                         <Image
                             alt="Prada"
-                            src="/Prada.jpg"
+                            src="/prada.jpg"
                             className="object-cover rounded-xl h-[330px] w-[300px]"
                         />
                     </CardBody>
