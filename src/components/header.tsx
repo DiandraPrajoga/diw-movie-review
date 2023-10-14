@@ -13,7 +13,7 @@ export default function Header() {
             <div className="flex">
                 <ul className="flex flex-row gap-10 px-8 text-2xl mr-[2rem] text-white">
                     <li>
-                        <Link href="/" className='hover:font-bold'>Home</Link>
+                        <Link href="/home" className='hover:font-bold'>Home</Link>
                     </li>
                     <li>
                         <Link href="/movies" className='hover:font-bold'>Movies</Link>
